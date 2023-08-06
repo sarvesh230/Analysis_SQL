@@ -1,0 +1,9 @@
+-- Q1) What is the the total amount spent on zomato?
+-- Q2) How many days has each customer visited zomato?
+-- Q3) what was the first product purchased by each customer?
+-- Q4) what is most purchased item on menu & how many times was it purchased by all customers ?
+-- Q5) which item was most popular for each customer?
+-- Q6) which item was purchased first by customer after they become a member ?
+-- Q7) which item was purchased just before the customer became a member?
+-- Q8)  what is total orders and amount spent for each member before they become a member?
+-- Q9)  If buying each product generates points for eg 5rs=2 zomato point and each product has different purchasing points for eg for p1 5rs=1 zomato point,for p2 10rs=zomato point and p3 5rs=1 zomato point  2rs =1zomato point, calculate points collected by each customer and for which product most points have been given till now.
